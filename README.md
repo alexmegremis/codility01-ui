@@ -1,3 +1,16 @@
+# codility01
+
+This is the UI component of the submission. Is is build with ReactJS, as requested.
+
+Note that **I am not at all familiar with ReadJS**, so this was also built as much as a learning exercise as it was for the coding challenge. 
+
+The UI presents a single form. It pre-filters user input, forces single character input, and only submits API requests for alphabetic input. There is no submit button, updates fire on keypress.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
