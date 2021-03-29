@@ -6,7 +6,15 @@ Note that **I am not at all familiar with ReadJS**, so this was also built as mu
 
 The UI presents a single form. It pre-filters user input, forces single character input, and only submits API requests for alphabetic input. There is no submit button, updates fire on keypress.
 
+### Requirements as provided:
 
+Please create a UI which allows the user to enter a letter and will show the number of
+cities beginning with that letter from the endpoint
+`https://samples.openweathermap.org/data/2.5/box/city?bbox=12,32,15,37,10&amp;appid=b
+6907d289e10d714a6e88b30761fae22`.
+- Back end should be a Java/Kotlin program (java &gt;= 8)
+- Front end can be plain HTML/JS or React
+- Provide a Readme.md file which explains how the project can be built and run.
 
 
 
